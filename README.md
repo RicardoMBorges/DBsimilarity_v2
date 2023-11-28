@@ -16,3 +16,6 @@ Instalação:
    b. para Linux: run.sh
    
 4. 
+![image](https://github.com/RicardoMBorges/DBsimilarity_v2/assets/15653685/dc8335f6-8424-49ac-8273-6e04d252ed65)
+
+
