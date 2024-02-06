@@ -1,5 +1,21 @@
 # DBsimilarity_v2
+Installation:
 
+1. Install Python 3.11.6 - specifically this version:
+        https://www.python.org/downloads/release/python-3110/
+        python-3.11.6-amd64
+
+2. Download the file DBsimilarity.zip containing: requirements.txt, run.bat, run.sh
+        These are sufficient to install and open Jupyter Notebook in the folder where these files are located.
+
+3. Install the Program using,
+
+    a. For Windows: run.bat
+
+    b. For Linux: run.sh
+
+    Organize the data to keep each project in its directory.
+____________________
 Instalação:
 1. Instalar python3.11.6 - especificamente a versão
    * [https://www.python.org/downloads/release/python-3110/](https://www.python.org/downloads/release/python-3116/)
